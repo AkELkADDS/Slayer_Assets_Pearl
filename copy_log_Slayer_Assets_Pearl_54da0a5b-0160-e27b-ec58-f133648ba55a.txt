@@ -1,6 +1,6 @@
 ====================================================== 
    BG3 MOD BACKUP DETAILED LOG - Slayer_Assets_Pearl_54da0a5b-0160-e27b-ec58-f133648ba55a 
-   Tue 04/14/2026 13:37:24.98 
+   Tue 04/14/2026 13:47:21.78 
 ====================================================== 
  
 BG3 Path: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data 
@@ -84,7 +84,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Tuesday, April 14, 2026 1:37:28 PM
+  Started : Tuesday, April 14, 2026 1:47:25 PM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Slayer_Assets_Pearl_54da0a5b-0160-e27b-ec58-f133648ba55a\
      Dest : C:\GIT_BG3\MOD_REPOS\Slayer_Assets_Pearl_54da0a5b-0160-e27b-ec58-f133648ba55a\Projects\Slayer_Assets_Pearl_54da0a5b-0160-e27b-ec58-f133648ba55a\
 
@@ -95,7 +95,7 @@ SECTION 2: COPY OPERATIONS
 ------------------------------------------------------------------------------
 
 	    New File  		     697	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Slayer_Assets_Pearl_54da0a5b-0160-e27b-ec58-f133648ba55a\meta.lsx100%  
-	    New File  		   5.2 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Slayer_Assets_Pearl_54da0a5b-0160-e27b-ec58-f133648ba55a\thumbnail.png  0%  100%  
+	    New File  		   5.2 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\Slayer_Assets_Pearl_54da0a5b-0160-e27b-ec58-f133648ba55a\thumbnail.png 18%  100%  
 
 ------------------------------------------------------------------------------
 
@@ -104,11 +104,7 @@ SECTION 2: COPY OPERATIONS
    Files :         2         2         0         0         0         0
    Bytes :    5.28 m    5.28 m         0         0         0         0
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
-
-
-   Speed :           5542204000 Bytes/sec.
-   Speed :           317127.456 MegaBytes/min.
-   Ended : Tuesday, April 14, 2026 1:37:28 PM
+   Ended : Tuesday, April 14, 2026 1:47:25 PM
 
  
 [DEBUG] Counting source files 
@@ -134,7 +130,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Tuesday, April 14, 2026 1:37:30 PM
+  Started : Tuesday, April 14, 2026 1:47:27 PM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\Slayer_Assets_Pearl_54da0a5b-0160-e27b-ec58-f133648ba55a\
      Dest : C:\GIT_BG3\MOD_REPOS\Slayer_Assets_Pearl_54da0a5b-0160-e27b-ec58-f133648ba55a\Editor\Mods\Slayer_Assets_Pearl_54da0a5b-0160-e27b-ec58-f133648ba55a\
 
@@ -153,7 +149,7 @@ SECTION 2: COPY OPERATIONS
    Files :         1         1         0         0         0         0
    Bytes :    48.1 k    48.1 k         0         0         0         0
    Times :   0:00:00   0:00:00                       0:00:00   0:00:00
-   Ended : Tuesday, April 14, 2026 1:37:30 PM
+   Ended : Tuesday, April 14, 2026 1:47:27 PM
 
  
 [DEBUG] Counting source files 
@@ -179,7 +175,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Tuesday, April 14, 2026 1:37:32 PM
+  Started : Tuesday, April 14, 2026 1:47:28 PM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Slayer_Assets_Pearl_54da0a5b-0160-e27b-ec58-f133648ba55a\
      Dest : C:\GIT_BG3\MOD_REPOS\Slayer_Assets_Pearl_54da0a5b-0160-e27b-ec58-f133648ba55a\Mods\Slayer_Assets_Pearl_54da0a5b-0160-e27b-ec58-f133648ba55a\
 
@@ -190,7 +186,7 @@ SECTION 2: COPY OPERATIONS
 ------------------------------------------------------------------------------
 
 	    New File  		    7821	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Slayer_Assets_Pearl_54da0a5b-0160-e27b-ec58-f133648ba55a\meta.lsx100%  
-	    New File  		   5.2 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Slayer_Assets_Pearl_54da0a5b-0160-e27b-ec58-f133648ba55a\mod_publish_logo.png100%  
+	    New File  		   5.2 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Slayer_Assets_Pearl_54da0a5b-0160-e27b-ec58-f133648ba55a\mod_publish_logo.png  9%  100%  
 	    New File  		    1141	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Slayer_Assets_Pearl_54da0a5b-0160-e27b-ec58-f133648ba55a\GUI\metadata.lsf100%  
 	    New File  		    3859	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\Slayer_Assets_Pearl_54da0a5b-0160-e27b-ec58-f133648ba55a\Localization\English\english.xml100%  
 
@@ -205,7 +201,7 @@ SECTION 2: COPY OPERATIONS
 
    Speed :           2777164000 Bytes/sec.
    Speed :           158910.598 MegaBytes/min.
-   Ended : Tuesday, April 14, 2026 1:37:32 PM
+   Ended : Tuesday, April 14, 2026 1:47:28 PM
 
  
 [DEBUG] Counting source files 
@@ -231,7 +227,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Tuesday, April 14, 2026 1:37:33 PM
+  Started : Tuesday, April 14, 2026 1:47:30 PM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Slayer_Assets_Pearl_54da0a5b-0160-e27b-ec58-f133648ba55a\
      Dest : C:\GIT_BG3\MOD_REPOS\Slayer_Assets_Pearl_54da0a5b-0160-e27b-ec58-f133648ba55a\Public\Slayer_Assets_Pearl_54da0a5b-0160-e27b-ec58-f133648ba55a\
 
@@ -254,12 +250,12 @@ SECTION 2: COPY OPERATIONS
 	    New File  		    2755	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Slayer_Assets_Pearl_54da0a5b-0160-e27b-ec58-f133648ba55a\Content\[PAK]_Slayer_Assets_Pearl\d9259d14-24be-4c04-a577-a89d6f7311b1.lsf100%  
 	    New File  		    2741	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Slayer_Assets_Pearl_54da0a5b-0160-e27b-ec58-f133648ba55a\Content\[PAK]_Slayer_Assets_Pearl\e12cde41-155d-4cbb-9a30-34231aa6c12a.lsf100%  
 	    New File  		    2757	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Slayer_Assets_Pearl_54da0a5b-0160-e27b-ec58-f133648ba55a\Content\[PAK]_Slayer_Assets_Pearl\fe1982b1-4bd7-961c-0e35-64a89e7ce57d.lsf100%  
-	    New File  		     212	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Slayer_Assets_Pearl_54da0a5b-0160-e27b-ec58-f133648ba55a\Seadragon_Pearl\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Pearl\Jaw\DGB_FPearl_Jaw_B_Vexa_L.xml100%  
-	    New File  		     212	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Slayer_Assets_Pearl_54da0a5b-0160-e27b-ec58-f133648ba55a\Seadragon_Pearl\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Pearl\Jaw\DGB_FPearl_Jaw_B_Vexa_R.xml100%  
-	    New File  		     210	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Slayer_Assets_Pearl_54da0a5b-0160-e27b-ec58-f133648ba55a\Seadragon_Pearl\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Pearl\Jaw\DGB_FPearl_Jaw_C_Vexa.xml100%  
 	    New File  		     217	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Slayer_Assets_Pearl_54da0a5b-0160-e27b-ec58-f133648ba55a\Seadragon_Pearl\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Pearl\CrestTop\DGB_FPearl_Top_B_Vexa_L.xml100%  
 	    New File  		     217	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Slayer_Assets_Pearl_54da0a5b-0160-e27b-ec58-f133648ba55a\Seadragon_Pearl\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Pearl\CrestTop\DGB_FPearl_Top_B_Vexa_R.xml100%  
 	    New File  		     215	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Slayer_Assets_Pearl_54da0a5b-0160-e27b-ec58-f133648ba55a\Seadragon_Pearl\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Pearl\CrestTop\DGB_FPearl_Top_C_Vexa.xml100%  
+	    New File  		     212	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Slayer_Assets_Pearl_54da0a5b-0160-e27b-ec58-f133648ba55a\Seadragon_Pearl\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Pearl\Jaw\DGB_FPearl_Jaw_B_Vexa_L.xml100%  
+	    New File  		     212	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Slayer_Assets_Pearl_54da0a5b-0160-e27b-ec58-f133648ba55a\Seadragon_Pearl\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Pearl\Jaw\DGB_FPearl_Jaw_B_Vexa_R.xml100%  
+	    New File  		     210	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\Slayer_Assets_Pearl_54da0a5b-0160-e27b-ec58-f133648ba55a\Seadragon_Pearl\Generated\Public\AkELkA_DGB\DGB_F_NKD\DGB_F_Head_EL_Pearl\Jaw\DGB_FPearl_Jaw_C_Vexa.xml100%  
 
 ------------------------------------------------------------------------------
 
@@ -272,7 +268,7 @@ SECTION 2: COPY OPERATIONS
 
    Speed :            10091428 Bytes/sec.
    Speed :             577.436 MegaBytes/min.
-   Ended : Tuesday, April 14, 2026 1:37:33 PM
+   Ended : Tuesday, April 14, 2026 1:47:30 PM
 
  
 [DEBUG] Counting source files 
@@ -298,7 +294,7 @@ SECTION 2: COPY OPERATIONS
    ROBOCOPY     ::     Robust File Copy for Windows                              
 -------------------------------------------------------------------------------
 
-  Started : Tuesday, April 14, 2026 1:37:35 PM
+  Started : Tuesday, April 14, 2026 1:47:32 PM
    Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\Slayer_Assets_Pearl_54da0a5b-0160-e27b-ec58-f133648ba55a\
      Dest : C:\GIT_BG3\MOD_REPOS\Slayer_Assets_Pearl_54da0a5b-0160-e27b-ec58-f133648ba55a\Generated\Public\Slayer_Assets_Pearl_54da0a5b-0160-e27b-ec58-f133648ba55a\
 
@@ -326,7 +322,7 @@ SECTION 2: COPY OPERATIONS
 
    Speed :           819741000 Bytes/sec.
    Speed :           46905.956 MegaBytes/min.
-   Ended : Tuesday, April 14, 2026 1:37:35 PM
+   Ended : Tuesday, April 14, 2026 1:47:32 PM
 
  
 [DEBUG] Counting source files 
